@@ -47,3 +47,4 @@ tqdm                # progress bars
 
 xarray
 xgboost
+sklearn
